@@ -118,6 +118,11 @@ div.aside-container div>img:hover{
         width: 400px;
         margin: 0 auto;
     }
+
+    .flex-container{
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 
