@@ -157,11 +157,4 @@ div.cards p{
         flex-direction: column;
         justify-content: center;
     }
-
-    .flex-top-container div:first-child{
-        justify-content: center;
-        margin-left: 2.5rem;
-        
-    }
-    
 }
