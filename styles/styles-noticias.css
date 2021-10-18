@@ -145,3 +145,23 @@ div.cards p{
         margin-top: 1rem;
     }
 }
+
+@media (max-width: 450px){
+    div.ads div{
+        max-width: 380px;
+        margin: 0 auto;
+    }
+
+    .principal-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .flex-top-container div:first-child{
+        justify-content: center;
+        margin-left: 2.5rem;
+        
+    }
+    
+}
