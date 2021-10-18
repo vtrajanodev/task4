@@ -36,3 +36,9 @@ nav ul li{
     display: inline;
     margin-left: 16px;
 }
+
+@media (max-width: 600px) {
+    header{
+        max-width: 600px;
+    }
+}
